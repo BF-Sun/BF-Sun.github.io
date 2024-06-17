@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-## About Me
+# About Me
 Hello! I'm Bufan Sun (孙不凡), and I am embarking on a joint MPhil-PhD program in the Department of Information Systems (IS) at the School of Business and Management, Hong Kong University of Science and Technology (HKUST). I earned my Bachelor's degree from The Chinese University of Hong Kong, Shenzhen (CUHKSZ), majoring in Financial Engineering with a focus on Quantitative Finance, complemented by a minor in Mathematics and Applied Mathematics.
 
 A data-driven personal website
