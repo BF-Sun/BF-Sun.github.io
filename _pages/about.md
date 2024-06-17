@@ -15,7 +15,7 @@ My current research interests revolve around the **economic impacts of blockchai
 Research
 =======
 **Topics**
-* Tokenization and Decetnralization
+* Tokenization and Decetnralization in Blockchain
 
 **Work in Progress**
 1. Tokenomics: How to allocate revenue? with Shidan, Li, Hong Xu, and Chenglong Zhang.
